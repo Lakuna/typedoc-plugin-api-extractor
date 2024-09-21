@@ -2,4 +2,4 @@
 
 # TypeDoc Plugin - API Extractor
 
-TODO
+A TypeDoc plugin for building documentation from an API Extractor doc model.
