@@ -31,8 +31,7 @@
 	"scripts": {
 		"build": "tsc",
 		"lint": "eslint src",
-		"beautify": "prettier . --write",
-		"prepare": "husky"
+		"beautify": "prettier . --write"
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.15.0",
